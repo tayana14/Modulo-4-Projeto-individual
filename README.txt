@@ -3,7 +3,7 @@ Sim, Professor.
 
 ⇨ Quais são os principais campos e tipos?
 
-São as chaves primarias e estrangeiras.
+curso e aluno
 
 ⇨ Como essas entidades estão relacionadas?
 as entidades estão relacioadas através de suas chaves primeiras e estrangeiras 
