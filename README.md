@@ -8,9 +8,4 @@ Para apoiar nesse sistema recebemos a tarefa de realizar essa modelagem e respon
 ⇨ Como essas entidades estão relacionadas?
 Vamos tentar pensar em 2 registros para cada entidade para checar o preenchimento das informações no nosso modelo.
 
-RESPOSTA:
-Existem outras entidades além dessas três? Sim
-⇨ Quais são os principais campos e tipos?
-Cursos e Alunos
-⇨ Como essas entidades estão relacionadas?
-Cada aluno pertence a um curso.
+
