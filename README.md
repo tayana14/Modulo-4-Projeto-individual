@@ -14,4 +14,4 @@ Modulo 4, projeto individual Resilia/Senac.
 
 <h3>:computer_mouse: Diagrama:</h3>
 
-<img src="https://imgur.com/02wXqe2.png" width="100%></img>
+<img src="https://imgur.com/02wXqe2.png" width="100%"></img>
