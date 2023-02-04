@@ -1,4 +1,5 @@
 # <h1>:computer_mouse: Modelo-Diagrama :computer_mouse:</h1>
+Modulo 4, projeto individual Resilia/Senac.
 
 :diamonds: A Resilia está pensando em lançar um novo sistema de acompanhamento e para isso precisa de ajuda para modelar um banco de dados que vai armazenar seus cursos, turmas e alunos.
 
@@ -10,5 +11,7 @@
   </ul>
 
 :desktop_computer: Vamos tentar pensar em 2 registros para cada entidade para checar o preenchimento das informações no nosso modelo.
+
+<h3>:computer_mouse: Diagrama:</h3>
 
 
